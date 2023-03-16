@@ -1,7 +1,6 @@
 # Efficacy of Mucosal Candidiasis Treatments on HIV-Positive Women
 
-A short individual report was created for the BIOST 540: Longitudinal and Multilevel Data Analysis final. This report aims to examine the efficacy of two treatments that aim to 
-prevent mucosal candidiasis in HIV+ women over a year-long period using a generalized linear mixed model.
+A individual report was created for the BIOST 540: Longitudinal and Multilevel Data Analysis final. This report examines the efficacy of two treatments that are intended to prevent mucosal candidiasis in HIV+ women over a year-long period using a generalized linear mixed model.
 
 # Contents
 
